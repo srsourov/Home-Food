@@ -1,0 +1,205 @@
+body {
+        margin: 0;
+        font-family: 'Cabin', sans-serif;
+}
+
+nav a {
+        text-decoration: none;
+        margin: 0 10px;
+        font-size: 22px;
+        color: #fff;
+}
+
+
+p {
+    font-size: 20px;
+    line-height: 25px;
+}
+img {
+    width: 100%;
+}
+
+h1 {
+        font-size: 45px;
+}
+
+.site-header {
+        background-color: rgb(15, 90, 189);
+}
+
+
+.header-block {
+        display: inline-block;
+        width: 45%;
+        color: #fff;
+}
+
+.header-block-logo {
+        text-align: left;
+        margin-left: 120px;
+}
+
+.header-block-menu {
+    text-align: center;
+    padding-bottom: 10px;
+    vertical-align: super;
+}
+
+.middle-font-color{
+        color: rgb(15, 90, 189);
+}
+
+
+.first-section-button {
+    text-decoration: none;
+    color: white;
+    padding: 12px 20px;
+    background-image: linear-gradient(90deg, rgb(33, 234, 178), rgb(15, 90, 189));
+    border-radius: 30px;
+}
+
+.banner-section { 
+        float: left;
+        width: 40%;
+}
+
+
+
+
+.banner-setting {
+    height: 600px;
+}
+
+.banner-img1 {
+        width: 500px;
+}
+
+
+
+.first-banner-section.part-1 { 
+        padding: 120px;
+}
+
+
+.first-section-button {
+    text-decoration: none;
+    color: white;
+    padding: 12px 20px;
+    background-image: linear-gradient(90deg, rgb(33, 234, 178), rgb(15, 90, 189));
+    border-radius: 30px;
+}
+
+
+.second-section-main{
+    float: left;
+    width: 40%;
+}
+
+.second-section-main.part-2 {
+    padding: 80px 60px;
+}
+
+.second-section-main.part-1 {
+    padding-left: 130px;
+}
+
+
+.banner-setting.section-frame {
+    background-image:url(Images/section-frame.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+.food-section-header {
+    text-align: center;
+    margin: 15px 300px;
+}
+
+.food-header-height {
+    padding: 50px 0;
+}
+
+
+
+
+
+
+.food-section-div {
+    float: left;
+    width: 25%;
+    padding: 30px;
+    margin: 15px;
+    box-shadow: 5px 5px 50px #b9b9b9;
+
+    align-items: center;
+    border-radius: 20px;
+
+
+}
+
+.food-section-div img {
+    border-radius: 10px;
+    padding-top: 0px;
+}
+
+
+.banner-setting.last-food-section{
+    padding: 0 120px;
+}
+
+
+
+.food-count-div {
+    display: inline-block;
+    width: 28%;
+    padding: 30px;
+    text-align: center;
+
+}
+
+
+.food-count-section {
+    box-shadow: 5px 5px 50px #b9b9b9;
+    margin: 50px 100px;
+    border-radius: 20px;
+    padding: 0 50px;
+}
+
+
+.Newsletter {
+    padding: 20px;
+    text-align: center;
+    margin: 50px 300px;
+}
+
+
+input[type=text], input[type=submit] {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+
+
+  input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  border: none;
+  background-image: linear-gradient(90deg, rgb(33, 234, 178), rgb(15, 90, 189));
+  font-size: 20px;
+
+  
+}
+
+.last-section {
+    padding: 50px 0;
+    text-align: center;
+    background-color: rgb(15, 90, 189);
+    color: #fff;
+
+}
